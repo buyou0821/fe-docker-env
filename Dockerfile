@@ -37,4 +37,6 @@ ADD z /root/.z_lib
 RUN echo '. /root/.z_lib/z.sh'	>> /root/.zshrc
 # end
 
+ENV SHELL /bin/zsh
+
 ENTRYPOINT [ "/bin/zsh" ]
