@@ -1,0 +1,2 @@
+Server = https://mirrors.ustc.edu.cn/archlinuxarm/$arch/$repo
+#Server = http://mirror.archlinuxarm.org/archlinuxarm/$arch/$repo
